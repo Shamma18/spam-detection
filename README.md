@@ -4,7 +4,7 @@ This project is a machine learning model to classify SMS messages as spam or not
 
 ## Deployed App
 
-You can access the deployed app [here]([http://your-streamlit-app-url](https://spam-detection-uvlvma2g6kjvfazvv7nlce.streamlit.app/)).
+You can access the deployed app [https://spam-detection-uvlvma2g6kjvfazvv7nlce.streamlit.app/].
 
 ## Features
 
